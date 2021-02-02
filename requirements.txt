@@ -1,0 +1,8 @@
+plotnine
+arrow
+dfply
+tidypython
+itables
+jupyter
+
+

@@ -1,2 +1,2 @@
-# Uber Analysis
-Analyze Uber pickups in New York City
+#Uber Analysis
+Use data visualization methods in Python to explore ride share data.
