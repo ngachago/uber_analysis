@@ -4,5 +4,5 @@ dfply
 tidypython
 itables
 jupyter
-
+geopandas
 
