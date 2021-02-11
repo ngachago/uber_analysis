@@ -1,3 +1,4 @@
 plotnine
 itables
 jupyter
+seaborn
